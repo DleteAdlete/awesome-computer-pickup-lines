@@ -1,7 +1,7 @@
 ![](https://d1nxzqpcg2bym0.cloudfront.net/google_play/com.appslabbd.masoom.pickuplines/98cb1154-3efe-11e8-87d9-1bd9a18b9fb4/128x128)
 
 # awesome-computer-pickup-lines
-## Open source pick up lines
+## Please star the repo.
 
 Ever met someone really interested in computers and coding, like you and wanna impress them with a smooth pickup line which shows that you have a shared interest? Well, fear no more because with `awesome-computer-pickup-lines`, you can.
 Feel free to open a pull request to contribute to our project
